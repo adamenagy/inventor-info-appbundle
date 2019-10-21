@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ApplicationPackage SchemaVersion="1.0" Version="1.0" ProductCode="{4a786503-1d7c-491f-af5a-765bbd4d29ab}" Name="DA4I_BasicInfoPlugin" Description="DA4I_BasicInfoPluginPlugin Plugin" Author="Inventor IO Dev">
+    <CompanyDetails Name="Autodesk, Inc" Phone="415.555.5555" Url="www.autodesk.com" Email="noreply@autodesk.com" />
+    <Components>
+        <!-- For Inventor Engine, "Platform" attribute must be "Inventor" -->
+        <RuntimeRequirements  OS="Win64" Platform="Inventor" />
+        <!-- For Inventor Plug-in, the "Module" attribute must point to the .addin manifest file. -->
+        <ComponentEntry LoadOnAutoCADStartup="False" LoadOnCommandInvocation="False"
+            AppDescription="DA4I_BasicInfoPlugin App Package."
+            ModuleName="./Contents/DA4I_BasicInfoPlugin.Inventor.addin" AppName="DA4I_BasicInfoPlugin"/>
+    </Components>
+    <EnvironmentVariables>
+    </EnvironmentVariables>
+</ApplicationPackage>

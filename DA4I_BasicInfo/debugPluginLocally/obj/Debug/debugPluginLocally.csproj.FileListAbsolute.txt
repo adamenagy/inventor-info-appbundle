@@ -1,0 +1,24 @@
+C:\Users\Adam Nagy\source\repos\DA4I_BasicInfo\DA4I_BasicInfo\debugPluginLocally\bin\Debug\DA4I_BasicInfoPlugin.Inventor.addin
+C:\Users\Adam Nagy\source\repos\DA4I_BasicInfo\DA4I_BasicInfo\debugPluginLocally\bin\Debug\7za.exe
+C:\Users\Adam Nagy\source\repos\DA4I_BasicInfo\DA4I_BasicInfo\debugPluginLocally\bin\Debug\debugPluginLocally.exe.config
+C:\Users\Adam Nagy\source\repos\DA4I_BasicInfo\DA4I_BasicInfo\debugPluginLocally\bin\Debug\debugPluginLocally.exe
+C:\Users\Adam Nagy\source\repos\DA4I_BasicInfo\DA4I_BasicInfo\debugPluginLocally\bin\Debug\debugPluginLocally.pdb
+C:\Users\Adam Nagy\source\repos\DA4I_BasicInfo\DA4I_BasicInfo\debugPluginLocally\bin\Debug\DA4I_BasicInfoPlugin.dll
+C:\Users\Adam Nagy\source\repos\DA4I_BasicInfo\DA4I_BasicInfo\debugPluginLocally\bin\Debug\DA4I_BasicInfoPlugin.pdb
+C:\Users\Adam Nagy\source\repos\DA4I_BasicInfo\DA4I_BasicInfo\debugPluginLocally\obj\Debug\debugPluginLocally.csprojAssemblyReference.cache
+C:\Users\Adam Nagy\source\repos\DA4I_BasicInfo\DA4I_BasicInfo\debugPluginLocally\obj\Debug\debugPluginLocally.csproj.CoreCompileInputs.cache
+C:\Users\Adam Nagy\source\repos\DA4I_BasicInfo\DA4I_BasicInfo\debugPluginLocally\obj\Debug\debugPluginLocally.csproj.CopyComplete
+C:\Users\Adam Nagy\source\repos\DA4I_BasicInfo\DA4I_BasicInfo\debugPluginLocally\obj\Debug\debugPluginLocally.exe
+C:\Users\Adam Nagy\source\repos\DA4I_BasicInfo\DA4I_BasicInfo\debugPluginLocally\obj\Debug\debugPluginLocally.pdb
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\debugPluginLocally\obj\Debug\debugPluginLocally.csprojAssemblyReference.cache
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\debugPluginLocally\obj\Debug\debugPluginLocally.csproj.CoreCompileInputs.cache
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\debugPluginLocally\obj\Debug\debugPluginLocally.exe
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\debugPluginLocally\obj\Debug\debugPluginLocally.pdb
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\debugPluginLocally\bin\Debug\DA4I_BasicInfoPlugin.Inventor.addin
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\debugPluginLocally\bin\Debug\7za.exe
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\debugPluginLocally\bin\Debug\debugPluginLocally.exe.config
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\debugPluginLocally\bin\Debug\debugPluginLocally.exe
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\debugPluginLocally\bin\Debug\debugPluginLocally.pdb
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\debugPluginLocally\bin\Debug\DA4I_BasicInfoPlugin.dll
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\debugPluginLocally\bin\Debug\DA4I_BasicInfoPlugin.pdb
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\debugPluginLocally\obj\Debug\debugPluginLocally.csproj.CopyComplete

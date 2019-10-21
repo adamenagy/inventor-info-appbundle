@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Addin Type="Plugin">
+  <ClassId>{4a786503-1d7c-491f-af5a-765bbd4d29ab}</ClassId>
+  <ClientId>{4a786503-1d7c-491f-af5a-765bbd4d29ab}</ClientId>
+  <DisplayName>DA4I_BasicInfoPlugin</DisplayName>
+  <Description>a DA4I_BasicInfoPlugin</Description>
+  <Assembly>DA4I_BasicInfoPlugin.dll</Assembly>
+</Addin>

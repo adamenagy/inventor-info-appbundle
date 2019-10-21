@@ -1,0 +1,14 @@
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\DA4I_BasicInfoPlugin\obj\Debug\DA4I_BasicInfoPlugin.csprojAssemblyReference.cache
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\DA4I_BasicInfoPlugin\obj\Debug\DA4I_BasicInfoPlugin.csproj.CoreCompileInputs.cache
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\DA4I_BasicInfoPlugin\bin\Debug\DA4I_BasicInfoPlugin.Inventor.addin
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\DA4I_BasicInfoPlugin\bin\Debug\7za.exe
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\DA4I_BasicInfoPlugin\bin\Debug\DA4I_BasicInfoPlugin.dll
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\DA4I_BasicInfoPlugin\bin\Debug\DA4I_BasicInfoPlugin.pdb
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\DA4I_BasicInfoPlugin\bin\Debug\7z.NET.dll
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\DA4I_BasicInfoPlugin\bin\Debug\Newtonsoft.Json.dll
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\DA4I_BasicInfoPlugin\bin\Debug\7z.NET.pdb
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\DA4I_BasicInfoPlugin\bin\Debug\7z.NET.xml
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\DA4I_BasicInfoPlugin\bin\Debug\Newtonsoft.Json.xml
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\DA4I_BasicInfoPlugin\obj\Debug\DA4I_BasicInfoPlugin.csproj.CopyComplete
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\DA4I_BasicInfoPlugin\obj\Debug\DA4I_BasicInfoPlugin.dll
+Z:\Documents\GitHub\adamenagy\inventor-info-appbundle\DA4I_BasicInfo\DA4I_BasicInfoPlugin\obj\Debug\DA4I_BasicInfoPlugin.pdb

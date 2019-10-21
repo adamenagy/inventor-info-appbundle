@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity name="DA4I_BasicInfoPlugin" version="1.0.0.0"></assemblyIdentity>
+  <clrClass clsid="{4a786503-1d7c-491f-af5a-765bbd4d29ab}" progid="DA4I_BasicInfoPlugin.PluginServer" threadingModel="Both" name="DA4I_BasicInfoPlugin.PluginServer"></clrClass>
+  <file name="DA4I_BasicInfoPlugin.dll" hashalg="SHA1"></file>
+</assembly>
